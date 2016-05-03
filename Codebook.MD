@@ -129,6 +129,7 @@ tBodyGyroMean
 tBodyGyroJerkMean
 
 # COMPONENTS OF CODE
+assumes working directory set as UCI HAR Dataset
 ##**********************************************************************************************************************************************************        
         ## 1. Merging the training and the test sets to create one data set.
         
